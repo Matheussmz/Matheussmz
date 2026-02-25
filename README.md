@@ -1,4 +1,8 @@
-## Hi there 👋
+## Olá, sou o Matheus 👋
+Futuro dev frontend.
+Passei um tempo desmotivado nos estudos, mas vou recomeçar e voltar com tudo.
+
+Atualmente estou estudando HTML e CSS para relembrar conteúdo e tags.
 
 <!--
 **Matheussmz/Matheussmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
