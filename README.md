@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[[![roadmap.sh](https://roadmap.sh/card/tall/666a187f59bd70fae22fa103?variant=dark)](https://roadmap.sh)
-https://roadmap.sh/frontend?s=66a945ade886d0166c663a8d](https://roadmap.sh/card/tall/66a945ade886d0166c663a8d?variant=dark&roadmaps=frontend)
+https://roadmap.sh/card/tall/66a945ade886d0166c663a8d?variant=dark&roadmaps=frontend
